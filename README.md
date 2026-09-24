@@ -30,7 +30,7 @@ This repository is created to practice Python programming and keep track of my l
 
 ## Author
 
-**Your Name**
+**Chandru**
 
 ---
 🐍 Learning Python, one program at a time!
